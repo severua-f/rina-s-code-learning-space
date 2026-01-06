@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Rina的学习主页</title>
+</head>
+<body>
+    <h1>你好，我是雨樱 (Rina) 👋</h1>
+
+    <p>这是我学习 HTML 的第一天！</p>
+    
+    <p>我的猫咪叫<b>雨桃</b>，它非常可爱。</p>
+
+    <h3>我的爱好：</h3>
+    <ul>
+        <li>🧵 缝纫</li>
+        <li>📖 读推理小说</li>
+        <li>💻 学习写代码</li>
+    </ul>
+</body>
+</html>
